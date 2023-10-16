@@ -20,18 +20,9 @@
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 	</a>
-	<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
-	</a> 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
-	</a> 
-	<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-	</a> 
+	</a>
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> 
 	   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
    </a> 
